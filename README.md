@@ -1,16 +1,15 @@
-# bitcoin_chart_assignment
+# Bitazza assignment
 
-A new Flutter project.
+A robust line chart built with no 3th party. With MVVM architecture
 
-## Getting Started
+## To setup 
 
-This project is a starting point for a Flutter application.
+``` make setup ```
 
-A few resources to get you started if this is your first Flutter project:
+## Overview architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="694" alt="image" src="https://github.com/narate1973/bitcoin_chart_assignment/assets/37734821/a7c613fa-a5b9-4977-8327-b43eeeafd8fc">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Overview structure of the chart
+
+![Uploading image.png…]()
